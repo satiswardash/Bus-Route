@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bus Route</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_main">Routes</string>
+    <string name="no_network_toast">Looks like you are disconnected!</string>
+</resources>
